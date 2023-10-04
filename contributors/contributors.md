@@ -34,6 +34,6 @@ Note:
 
 Entry: 1
 Github: 
-Nama: 
-Website: 
-Pesan: 
+Nama: Reivaldy
+Website: hahahihi
+Pesan: halo
